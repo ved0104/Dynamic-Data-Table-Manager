@@ -84,10 +84,11 @@ Copy code
 
 ### 1️⃣ Clone the Repository
 ```bash
+Copy code
 git clone https://github.com/your-username/dynamic-data-table-manager.git
 cd dynamic-data-table-manager
 2️⃣ Install Dependencies
-bash
+```bash
 Copy code
 npm install
 (Make sure you have Node.js ≥ 18 and npm ≥ 9)
